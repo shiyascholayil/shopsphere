@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241366584077",
+    "project_id": "e-commerceapp-d991a",
+    "storage_bucket": "e-commerceapp-d991a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241366584077:android:fd64d9d50f7e6975a53e44",
+        "android_client_info": {
+          "package_name": "com.example.shopsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLAhINLgy_WYwFphrxUW35DSXb6DxCvcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
