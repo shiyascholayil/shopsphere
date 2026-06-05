@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shopsphere/const.dart';
-import 'package:shopsphere/provider/auth_provider.dart';
+import 'package:shopsphere/riverpod/auth_riverpod.dart';
 
 class ForgotPasswordScreen extends ConsumerStatefulWidget {
   const ForgotPasswordScreen({super.key});

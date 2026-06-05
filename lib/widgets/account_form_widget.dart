@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shopsphere/const.dart';
-import 'package:shopsphere/provider/firestore_provider.dart';
+import 'package:shopsphere/riverpod/firestore_riverpod.dart';
 import 'package:shopsphere/widgets/textfield_widget.dart';
 
 class AccountFormWidget extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shopsphere/const.dart';
-import 'package:shopsphere/provider/auth_provider.dart';
+import 'package:shopsphere/riverpod/auth_riverpod.dart';
 import 'package:shopsphere/screens/forgot_password_screen.dart';
 import 'package:shopsphere/screens/sighup_screen.dart';
 import 'package:shopsphere/widgets/loading_widget.dart';

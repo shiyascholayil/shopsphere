@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shopsphere/const.dart';
-import 'package:shopsphere/provider/category_provider.dart';
-import 'package:shopsphere/provider/firestore_provider.dart';
+import 'package:shopsphere/riverpod/category_riverpod.dart';
+import 'package:shopsphere/riverpod/firestore_riverpod.dart';
 import 'package:shopsphere/screens/cart_screen.dart';
 import 'package:shopsphere/widgets/home_widget.dart';
 import 'package:shopsphere/widgets/permission_widget.dart';

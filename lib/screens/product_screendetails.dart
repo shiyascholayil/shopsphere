@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shopsphere/const.dart';
 import 'package:shopsphere/models/products.dart';
-import 'package:shopsphere/provider/firestore_provider.dart';
+import 'package:shopsphere/riverpod/firestore_riverpod.dart';
 import 'package:shopsphere/screens/cart_screen.dart';
 import 'package:shopsphere/screens/delivery_address_screen.dart';
 import 'package:shopsphere/widgets/quantity_widget.dart';

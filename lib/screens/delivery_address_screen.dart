@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shopsphere/const.dart';
-import 'package:shopsphere/provider/firestore_provider.dart';
+import 'package:shopsphere/riverpod/firestore_riverpod.dart';
 import 'package:shopsphere/screens/payment_method_screen.dart';
 import 'package:shopsphere/widgets/account_form_widget.dart';
 

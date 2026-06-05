@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:shopsphere/provider/category_provider.dart';
+import 'package:shopsphere/riverpod/category_riverpod.dart';
 import 'package:shopsphere/screens/product_screendetails.dart';
 import 'package:shopsphere/widgets/product_card.dart';
 
